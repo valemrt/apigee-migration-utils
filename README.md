@@ -33,6 +33,7 @@ export DEPLOY=true  # Set to false to skip deployment
 3. Export and Import (Optional):
 
 Uncomment the export/import section in the script if you want to create and restore a full backup.
+
 4. Run the Script:
 ```
 ./apigee_migrate.sh
